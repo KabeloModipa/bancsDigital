@@ -1,0 +1,13 @@
+{
+  "name": "bancsdigital",
+  "version": "1.0.0",
+  "description": "SmokeTests",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Kabelo Modipa",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.46.0",
+    "@types/node": "^22.1.0"
+  }
+}
